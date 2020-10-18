@@ -1,17 +1,28 @@
 body{
     background-color: rgb(114, 172, 171);
     color: #0e4848;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-family: Arial;
+}
+.my-start{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
 }
 .my-img{
-    width: 350px;
+    width: 300px;
+    border-radius: 5%;
 }
-div{
+.my-end{
     display: inline-block;
     border: 2px solid #cfd6ea;
+    border-radius: 50%;
     width: 40px;
     height: 40px;
 }
 .my-div{
     width: 40px;
     height: 40px;
+    border-radius: 50%;
 }
