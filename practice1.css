@@ -1,7 +1,17 @@
 body{
-    background: #73b7b7;
+    background-color: rgb(114, 172, 171);
     color: #0e4848;
 }
-img{
-width: 350px;
+.my-img{
+    width: 350px;
+}
+div{
+    display: inline-block;
+    border: 2px solid #cfd6ea;
+    width: 40px;
+    height: 40px;
+}
+.my-div{
+    width: 40px;
+    height: 40px;
 }
