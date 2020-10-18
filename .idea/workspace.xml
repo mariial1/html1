@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dda71624-b316-455e-b3c2-3e87fc7301bc" name="Default Changelist" comment="commit6">
+      <change beforePath="$PROJECT_DIR$/practice1.css" beforeDir="false" afterPath="$PROJECT_DIR$/practice1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice1.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice1.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1isFpDT9FkikKI9cOSzLO4VveeT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\html1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dda71624-b316-455e-b3c2-3e87fc7301bc" name="Default Changelist" comment="" />
+      <created>1602688576951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602688576951</updated>
+      <workItem from="1602688578844" duration="2489000" />
+      <workItem from="1602691227777" duration="4120000" />
+      <workItem from="1603031223125" duration="13331000" />
+    </task>
+    <task id="LOCAL-00001" summary="simle fix">
+      <created>1602693875046</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602693875047</updated>
+    </task>
+    <task id="LOCAL-00002" summary="simle fix2">
+      <created>1602693895374</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602693895374</updated>
+    </task>
+    <task id="LOCAL-00003" summary="simle fix3">
+      <created>1602694540897</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602694540897</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit4">
+      <created>1603035148517</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603035148517</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit5">
+      <created>1603046865370</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603046865370</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit6">
+      <created>1603047017514</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603047017514</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="simle fix" />
+    <MESSAGE value="simle fix2" />
+    <MESSAGE value="simle fix3" />
+    <MESSAGE value="commit4" />
+    <MESSAGE value="commit5" />
+    <MESSAGE value="commit6" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit6" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="464" y="91" key="FileChooserDialogImpl" timestamp="1602694183700">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="464" y="91" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1602694183700" />
+    <state x="562" y="234" key="Github.ShareDialog" timestamp="1602693779092">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="562" y="234" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1602693779092" />
+    <state x="508" y="41" key="Github.UntrackedFilesDialog" timestamp="1602693793894">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="508" y="41" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1602693793894" />
+    <state x="185" y="0" key="SettingsEditor" timestamp="1602693743440">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="185" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1602693743440" />
+    <state x="276" y="69" key="Vcs.Push.Dialog.v2" timestamp="1603047029084">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="276" y="69" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1603047029084" />
+    <state x="501" y="250" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603050529769">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="501" y="250" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1603050529769" />
+  </component>
+</project>
