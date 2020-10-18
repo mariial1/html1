@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dda71624-b316-455e-b3c2-3e87fc7301bc" name="Default Changelist" comment="commit6">
-      <change beforePath="$PROJECT_DIR$/practice1.css" beforeDir="false" afterPath="$PROJECT_DIR$/practice1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice1.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice1.html" afterDir="false" />
+    <list default="true" id="dda71624-b316-455e-b3c2-3e87fc7301bc" name="Default Changelist" comment="commit7">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Titanic-2017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice2.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +75,8 @@
       <updated>1602688576951</updated>
       <workItem from="1602688578844" duration="2489000" />
       <workItem from="1602691227777" duration="4120000" />
-      <workItem from="1603031223125" duration="13331000" />
+      <workItem from="1603031223125" duration="13659000" />
+      <workItem from="1603051592939" duration="2116000" />
     </task>
     <task id="LOCAL-00001" summary="simle fix">
       <created>1602693875046</created>
@@ -118,7 +120,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603047017514</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit7">
+      <created>1603050573341</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603050573341</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit7">
+      <created>1603050599489</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603050599489</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +150,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="simle fix" />
@@ -142,7 +159,8 @@
     <MESSAGE value="commit4" />
     <MESSAGE value="commit5" />
     <MESSAGE value="commit6" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit6" />
+    <MESSAGE value="commit7" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit7" />
   </component>
   <component name="WindowStateProjectService">
     <state x="464" y="91" key="FileChooserDialogImpl" timestamp="1602694183700">
@@ -161,10 +179,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="185" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1602693743440" />
-    <state x="276" y="69" key="Vcs.Push.Dialog.v2" timestamp="1603047029084">
+    <state x="276" y="69" key="Vcs.Push.Dialog.v2" timestamp="1603050642705">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="276" y="69" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1603047029084" />
+    <state x="276" y="69" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1603050642705" />
     <state x="501" y="250" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603050529769">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
