@@ -3,7 +3,10 @@ body{
     color: #0e4848;
     margin-left: 200px;
     margin-right: 200px;
-    font-family: Arial;
+    font-family: arial;
+}
+.my-text{
+    text-align: justify;
 }
 .my-start{
     text-align: center;
@@ -27,4 +30,7 @@ body{
 }
 .w-40{
     width: 40px;
+}
+.p-60{
+    padding-left: 60px;
 }
